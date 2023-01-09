@@ -1,2 +1,6 @@
 "use strict";
-const a = 10;
+var a = 10;
+(function () {
+    var b = 20;
+    console.log(b);
+})();

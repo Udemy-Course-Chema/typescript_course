@@ -1,7 +1,7 @@
 "use strict";
-const msg = "hello world";
-const numero = 0;
-const obj = {
+var msg = "hello world";
+var numero = 0;
+var obj = {
     name: 'ironman',
     age: 40
 };
