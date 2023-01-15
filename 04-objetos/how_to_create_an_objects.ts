@@ -18,5 +18,6 @@
     }
     arr.push( obj );
 
+ 
     console.log( arr );
 })()
