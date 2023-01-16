@@ -1,7 +1,4 @@
 "use strict";
-/**
- * EL ENUM SÖLO EXISTE EN TYPESCRIPT.
- */
 (function () {
     var AudioLevel;
     (function (AudioLevel) {
@@ -14,3 +11,4 @@
     console.log(currentAudio);
     console.log(currentAudio2);
 })();
+//# sourceMappingURL=enum.js.map

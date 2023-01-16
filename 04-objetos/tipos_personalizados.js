@@ -1,7 +1,5 @@
 "use strict";
 (function () {
-    // PALABRA RESERVADA DEL TYPESCRIPT: type
-    // Como typeof de JavaScript.
     var flash = {
         name: 'Barry Allen',
         powers: ['Velocidad', 'Viajar en el tiempo']
@@ -14,3 +12,4 @@
         }
     };
 })();
+//# sourceMappingURL=tipos_personalizados.js.map

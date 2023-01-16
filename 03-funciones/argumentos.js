@@ -11,3 +11,4 @@
     var w = isObligatorio('hola', 'dos');
     console.log(w);
 })();
+//# sourceMappingURL=argumentos.js.map

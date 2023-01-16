@@ -9,6 +9,5 @@
     flash = {
         name: 'john'
     };
-    // En JS se puede, pero en TS no. 
-    // flash.power = 'Velocidad';
 })();
+//# sourceMappingURL=objects.js.map

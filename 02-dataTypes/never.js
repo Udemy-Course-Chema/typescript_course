@@ -6,3 +6,4 @@
     error(' NO SIRVE LA FUNCIÖN');
     console.log('A ver, que pedo ? ');
 })();
+//# sourceMappingURL=never.js.map

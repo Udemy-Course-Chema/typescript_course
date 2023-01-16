@@ -14,7 +14,6 @@
     var isSignal = function (data) {
         return data;
     };
-    // Arreglos
     var arrStrings = function (data) {
         return data;
     };
@@ -22,3 +21,4 @@
         return data;
     };
 })();
+//# sourceMappingURL=intro.js.map

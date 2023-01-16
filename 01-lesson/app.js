@@ -6,3 +6,4 @@ var obj = {
     age: 40
 };
 console.log(msg);
+//# sourceMappingURL=app.js.map

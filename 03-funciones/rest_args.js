@@ -1,5 +1,4 @@
 "use strict";
-// PARÁMETROS REST
 (function () {
     var fullName = function (first) {
         var _a;
@@ -12,3 +11,4 @@
     var superman = fullName('Clark', 'Joseph', 'Kent');
     console.log(superman);
 })();
+//# sourceMappingURL=rest_args.js.map

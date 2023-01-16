@@ -14,3 +14,4 @@
     console.log(nombre);
     console.log(nombre2);
 })();
+//# sourceMappingURL=parametros_por_defecto.js.map

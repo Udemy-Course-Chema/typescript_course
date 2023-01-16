@@ -7,3 +7,4 @@
     console.log(nulo);
     console.log(nada === nulo);
 })();
+//# sourceMappingURL=null_undefined.js.map

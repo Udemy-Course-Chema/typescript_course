@@ -18,3 +18,4 @@
     arr.push(obj);
     console.log(arr);
 })();
+//# sourceMappingURL=how_to_create_an_objects.js.map

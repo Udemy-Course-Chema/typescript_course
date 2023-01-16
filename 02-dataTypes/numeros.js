@@ -7,3 +7,4 @@
     console.log({ avengers: avengers });
     console.log(villians);
 })();
+//# sourceMappingURL=numeros.js.map
