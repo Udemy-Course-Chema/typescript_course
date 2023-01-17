@@ -107,6 +107,6 @@
   //   "04-objetos/*.ts"
   // ]
   "include": [ 
-    "./07-OOP/*.ts"
+    "./08-interfaz/*.ts"
   ]
 }
